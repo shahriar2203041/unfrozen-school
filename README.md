@@ -11,8 +11,9 @@ Difficulty in understanding complex scientific concepts
 
 Limited support for differently-abled students
 
+
 Outdated information systems for academic updates
----
+---p
 Our Solution at a Glance
 
 A web-based platform with:
@@ -30,6 +31,7 @@ Bilingual interface (Bangla & English)
 Access to books, lab manuals, research papers, and university circulars
 
 Sign language tutorials and smart notifications
+
 ---
 Built With
 
